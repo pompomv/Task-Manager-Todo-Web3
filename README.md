@@ -135,5 +135,4 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 <p align="center">
   <b>✅ Stellar Task Manager DApp</b> — Organizing Your Productivity on the Blockchain <br>
-  <b>✅ Build ID : CCM7TTUB574OMFWFY64PZHNUJMCCT5CS2CZYYE6HCIVCEWOUK5XLHCJW </b>
 </p>
