@@ -70,7 +70,7 @@ Our vision is to revolutionize personal productivity in the digital age by:
 | Property | Value |
 |:---------|:------|
 | **Network** | Stellar Testnet |
-| **Contract Address** | `CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M` |
+| **Contract Address** | `CCM7TTUB574OMFWFY64PZHNUJMCCT5CS2CZYYE6HCIVCEWOUK5XLHCJW` |
 | **Language** | Rust |
 | **SDK** | Soroban SDK |
 
